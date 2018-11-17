@@ -1,1 +1,2 @@
 git is fun
+git is easy
