@@ -4,4 +4,8 @@ Creating a new branch is simple and quick
 delected
 333222
 555
+<<<<<<< HEAD
 dev
+=======
+000
+>>>>>>> d9aacc9f5e179f2372e60689481d65a80ad78018
