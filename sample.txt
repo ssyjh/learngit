@@ -1,8 +1,4 @@
 git is fun
 git is easy
 Creating a new branch is simple and quick
-<<<<<<< HEAD
-222222
-=======
-11111
->>>>>>> dev
+in dev branch
